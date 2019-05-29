@@ -11,5 +11,6 @@ public class MainClass {
         int andi = 1;
         
         andi = 12;
+        String Lumi = "Kaffee";
     }
 }
