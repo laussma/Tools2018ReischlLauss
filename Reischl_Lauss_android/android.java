@@ -9,5 +9,7 @@ public class MainClass {
     public void thisIsANewMethod() { 
         String name = "hulapalu";
         int andi = 1;
+        
+        andi = 12;
     }
 }
