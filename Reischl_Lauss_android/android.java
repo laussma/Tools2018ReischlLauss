@@ -12,5 +12,6 @@ public class MainClass {
 
         //bugfix
         andi = 69;
+        double secretcode = 420.69;
     }
 }
