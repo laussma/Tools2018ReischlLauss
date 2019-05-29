@@ -5,5 +5,7 @@ public class MainClass {
         int y = 4;
         int z = x + y;
     }
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() {
+        int andi = 1;
+    }
 }
